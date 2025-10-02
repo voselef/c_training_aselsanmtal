@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 int main(){
     while(1){
@@ -15,3 +16,4 @@ int main(){
         printf("Program bitti, basa donuluyor...\n\n");
     }
 }
+
